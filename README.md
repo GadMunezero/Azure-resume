@@ -1,0 +1,2 @@
+# Azure-resume
+practice project
